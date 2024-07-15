@@ -1,7 +1,7 @@
 # fanqiang
 稳定高速飞机场，每日检查更新
 # 飞机场推荐 
-**2024年7月13日（每日检查，及时更新最新地址）**
+**2024年7月15日（每日检查，及时更新最新地址）**
 *   [魔戒](https://mojie.app/register?aff=1pWspTHg#tt)|[备用1](https://mojie.co/register?aff=1pWspTHg#tt)(￥14.9/130G不限时，节点数中等，稳定，能播放YouTube 4k)
 *   [V2free](https://w1.v2free.cc/auth/register?code=QKu7#tt)（￥20/100G限时1月，节点数多，稳定，速度快）
 <br />
